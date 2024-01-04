@@ -14,7 +14,6 @@ public class Member extends Dto {
 		this.name = name;
 	}
 
-
 	public String getLoginId() {
 		return loginId;
 	}
